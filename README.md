@@ -2,49 +2,49 @@
 
 ## Principles Used to Design Microservice Architecture
 
-## The principles used to design Microservices are as follows:
+The principles used to design Microservices are as follows:
 
 - Independent & Autonomous Services
 
 - Scalability
 
-Decentralization
+- Decentralization
 
-Resilient Services
+- Resilient Services
 
-Real-Time Load Balancing
+- Real-Time Load Balancing
 
-Availability
+- Availability
 
-Continuous delivery through DevOps Integration
+- Continuous delivery through DevOps Integration
 
-Seamless API Integration and Continuous Monitoring
+- Seamless API Integration and Continuous Monitoring
 
-Isolation from Failures
+- Isolation from Failures
 
-Auto -Provisioning
+- Auto -Provisioning
 
-Design Patterns of Microservices
+## Design Patterns of Microservices
 
-Aggregator
+- Aggregator
 
-API Gateway
+- API Gateway
 
-Chained or Chain of Responsibility
+- Chained or Chain of Responsibility
 
-Asynchronous Messaging
+- Asynchronous Messaging
 
-Database or Shared Data
+- Database or Shared Data
 
-Event Sourcing
+- Event Sourcing
 
-Branch
+- Branch
 
-Command Query Responsibility Segregator
+- Command Query Responsibility Segregator
 
-Circuit Breaker
+- Circuit Breaker
 
-Decomposition
+- Decomposition
 
 Microservice architecture has become the de facto choice for modern application development. Though it solves certain problems, it is not a silver bullet. It has several drawbacks and when using this architecture, there are numerous issues that must be addressed. This brings about the need to learn common patterns in these problems and solve them with reusable solutions. Thus, design patterns for microservices need to be discussed. Before we dive into the design patterns, we need to understand on what principles microservice architecture has been built:
 
