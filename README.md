@@ -2,11 +2,11 @@
 
 ## Principles Used to Design Microservice Architecture
 
-The principles used to design Microservices are as follows:
+## The principles used to design Microservices are as follows:
 
-Independent & Autonomous Services
+- Independent & Autonomous Services
 
-Scalability
+- Scalability
 
 Decentralization
 
