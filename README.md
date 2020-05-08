@@ -28,7 +28,11 @@ The principles used to design Microservices are as follows:
 
 - Aggregator
 
+![Aggregator-Microservices-Design-Patterns-Edureka](https://user-images.githubusercontent.com/9671419/81450087-4fa0fe80-919f-11ea-8543-07ecc88da155.png)
+
 - API Gateway
+
+![API-Gateway-Microservices-Design-Patterns-Edureka](https://user-images.githubusercontent.com/9671419/81450088-50399500-919f-11ea-9de2-c9c0b6cfba14.png)
 
 - Chained or Chain of Responsibility
 
