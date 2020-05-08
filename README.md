@@ -36,17 +36,31 @@ The principles used to design Microservices are as follows:
 
 - Chained or Chain of Responsibility
 
+![Chained-Microservices-Design-Patterns-Edureka](https://user-images.githubusercontent.com/9671419/81450091-516ac200-919f-11ea-93c1-651e6e084166.png)
+
 - Asynchronous Messaging
+
+![Asynchronus-Messaging-Microservices-Design-Patterns-Edureka](https://user-images.githubusercontent.com/9671419/81450089-50d22b80-919f-11ea-9b4b-2ac0932ccb7e.png)
 
 - Database or Shared Data
 
+![Database-Microservices-Design-Patterns-Edureka](https://user-images.githubusercontent.com/9671419/81450082-4f086800-919f-11ea-86e2-fdb76f407ac3.png)
+
 - Event Sourcing
+
+![Event-Sourcing-Microservices-Design-Patterns-Edureka](https://user-images.githubusercontent.com/9671419/81450084-4fa0fe80-919f-11ea-9551-61c7a6f561cb.png)
 
 - Branch
 
+![Branch-Microservices-Design-Patterns-Edureka](https://user-images.githubusercontent.com/9671419/81450090-50d22b80-919f-11ea-8439-95cf6981800e.png)
+
 - Command Query Responsibility Segregator
 
+![CQRS-Microservices-Design-Patterns-Edureka](https://user-images.githubusercontent.com/9671419/81450081-4f086800-919f-11ea-8f36-49dd8178834f.png)
+
 - Circuit Breaker
+
+![Circuit-Breaker-Microservices-Design-Patterns-Edureka](https://user-images.githubusercontent.com/9671419/81450077-4dd73b00-919f-11ea-8078-c632fb51532a.png)
 
 - Decomposition
 
