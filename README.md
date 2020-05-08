@@ -48,21 +48,21 @@ The principles used to design Microservices are as follows:
 
 Microservice architecture has become the de facto choice for modern application development. Though it solves certain problems, it is not a silver bullet. It has several drawbacks and when using this architecture, there are numerous issues that must be addressed. This brings about the need to learn common patterns in these problems and solve them with reusable solutions. Thus, design patterns for microservices need to be discussed. Before we dive into the design patterns, we need to understand on what principles microservice architecture has been built:
 
-Scalability
+- Scalability
 
-Availability
+- Availability
 
-Resiliency
+- Resiliency
 
-Independent, autonomous
+- Independent, autonomous
 
-Decentralized governance
+- Decentralized governance
 
-Failure isolation
+- Failure isolation
 
-Auto-Provisioning
+- Auto-Provisioning
 
-Continuous delivery through DevOps
+- Continuous delivery through DevOps
 
 Applying all these principles brings several challenges and issues. Let's discuss those problems and their solutions.
 
